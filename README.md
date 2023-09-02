@@ -6,3 +6,6 @@ Projeto foi construído utilizando o angular 16, entao para roda-lo é necessár
 
 # Iniciando o projeto
   * Para inciar o projeto será necessário usar o comando npm start.
+
+# URL de teste do projeto
+* https://deploy-preview-5--bejewelled-twilight-8fa1d8.netlify.app/
