@@ -4,5 +4,5 @@ Projeto foi construído utilizando o angular 16, entao para roda-lo é necessár
 # Instalação do projeto
   * Para instalar o projeto será necessário realizar usar o comando npm i, na pasta do projeto.
 
-#Iniciando o projeto
+# Iniciando o projeto
   * Para inciar o projeto será necessário usar o comando npm start.
