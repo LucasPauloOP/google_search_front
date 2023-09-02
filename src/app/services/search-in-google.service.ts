@@ -6,7 +6,7 @@ import { firstValueFrom } from 'rxjs';
   providedIn: 'root'
 })
 export class SearchInGoogleService {
-  readonly apiUrl = "http://localhost:3000/search_google";
+  readonly apiUrl = location.host.includes('bejewelled') ? "https://search-google-backend.onrender.com/search_google" : "http://localhost:3000/search_google";
 
   constructor(
     private http: HttpClient,

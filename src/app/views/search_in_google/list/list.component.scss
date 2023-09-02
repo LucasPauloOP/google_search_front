@@ -17,11 +17,22 @@
   padding-top: 102px;
 }
 
-.data-card{
+.data-card {
   padding: 5px;
   margin: 8px 0px;
   width: 20%;
   border: 1px solid black;
   font-size: 30px;
   text-align: center;
+}
+
+@media (max-width: 800px)  {
+  .data-card {
+    padding: 5px;
+    margin: 8px 0px;
+    width: 100%;
+    border: 1px solid black;
+    font-size: 30px;
+    text-align: center;
+  }
 }
